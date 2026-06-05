@@ -2,7 +2,7 @@
 
 # Faith Olaniyi
 
-### Computer Science Graduate · Data Science & AI for Healthcare · Aspiring Health Data Scientist
+### Computer Science Graduate | Data Science & AI for Healthcare | Aspiring Health Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faith%20Olaniyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faitholuwanifemi-olaniyi)
 [![GitHub](https://img.shields.io/badge/GitHub-faithopia21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faithopia21)
