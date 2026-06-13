@@ -85,17 +85,17 @@ As I continue learning and building projects, I am particularly interested in ap
 
 ## Certifications
 
-- Introduction to Data Science in Python -- DataCamp
-- Intermediate Python -- DataCamp
-- Intermediate SQL -- DataCamp
-- Understanding Artificial Intelligence -- DataCamp
+- Introduction to Data Science in Python - DataCamp
+- Intermediate Python - DataCamp
+- Intermediate SQL - DataCamp
+- Understanding Artificial Intelligence - DataCamp
 
 ---
 
 ## Education and Research
 
 **Bachelor of Technology in Computer Science**  
-Ladoke Akintola University of Technology (LAUTECH), Ogbomosho · April 2021 -- September 2025
+Ladoke Akintola University of Technology (LAUTECH), Ogbomosho · April 2021 - September 2025
 
 Relevant coursework: Artificial Intelligence · Research Methodology in Computing · Statistics for Computing and Informatics · Data Structures and Algorithms · Computational Science and Numerical Methods · Linear Algebra
 
