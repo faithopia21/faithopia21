@@ -101,7 +101,7 @@ Relevant coursework: Artificial Intelligence · Research Methodology in Computin
 
 **Undergraduate Research:**  
 Development of a Fingerprint-Based Malnutrition Detection System in Vulnerable Populations  
-Software Engineering Institute, LAUTECH · November 2024 -- September 2025
+Software Engineering Institute, LAUTECH · November 2024 - September 2025
 
 ---
 
