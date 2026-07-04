@@ -14,7 +14,16 @@
 
 ## About Me
 
-I am a Computer Science graduate currently exploring how data science, machine learning, and AI can be applied to healthcare problems. Over the past few years, I've developed an interest in how data can help us understand health challenges and support better decisions. That interest has led me to spend time learning data analysis, machine learning, data visualisation, and healthcare analytics through projects, internships, research, and independent study. What keeps me interested in this field is not just the technology itself, but the possibility of using it to solve practical problems that affect people's lives. At the moment, I'm focused on strengthening my technical and research skills, building healthcare-related projects, and preparing for graduate studies in Data Science and Artificial Intelligence. I'm always interested in learning from others, collaborating on meaningful work, and contributing to projects that combine technology, research, and social impact.
+I recently graduated with a degree in Computer Science, and I’m currently exploring how healthcare analytics, data science, machine learning, and AI can be applied to healthcare problems and public health challenges.
+
+Over the past few years, I’ve become increasingly interested in the role data can play in understanding health challenges and supporting better decisions. That interest has led me to spend time learning and building through projects, internships, research, and independent study.
+
+What keeps me interested in this space is not only the technology itself, but also the questions around how healthcare systems work and where data can realistically make a difference. I find myself drawn to problems that sit between healthcare, research, and real-world impact.
+
+At the moment, I’m focused on strengthening my technical and research skills, building healthcare-related projects, reading and learning more about health data, and preparing for graduate studies.
+
+I’m always interested in learning from others, collaborating on meaningful work, and contributing to projects that combine healthcare, research, and technology.
+
 
 ---
 
