@@ -6,7 +6,7 @@
 
 ### Computer Science Graduate | Healthcare Analytics & AI Research | Exploring Data-Driven Solutions for Health Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faith%20Olaniyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faitholuwanifemi-olaniyi)
-[![GitHub](https://img.shields.io/badge/GitHub-faithopia21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faithopia21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faitholaniyi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faitholaniyi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-olaniyifaitholuwanifemi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olaniyifaitholuwanifemi@gmail.com)
 
 ---
