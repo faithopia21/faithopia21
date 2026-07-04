@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Faith+Olaniyi;Computer+Science+Graduate+%7C+Data+Science+%26+AI+for+Healthcare;Aspiring+Health+Data+Scientist+%7C+Machine+Learning+%26+Public+Health)](https://github.com/faithopia21)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Faith+Olaniyi;Computer+Science+Graduate+%7C+Data+Science+%26+AI+for+Healthcare;Data-Driven+Health+Systems+%7C+Machine+Learning+%26+Public+Health)](https://github.com/faithopia21)
+
+
 
 # Faith Olaniyi
 
-### Computer Science Graduate | Data Science & AI for Healthcare | Aspiring Health Data Scientist
-
+### Computer Science Graduate | Healthcare Analytics & AI Research | Exploring Data-Driven Solutions for Health Systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faith%20Olaniyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faitholuwanifemi-olaniyi)
 [![GitHub](https://img.shields.io/badge/GitHub-faithopia21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faithopia21)
 [![Email](https://img.shields.io/badge/Email-olaniyifaitholuwanifemi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olaniyifaitholuwanifemi@gmail.com)
@@ -12,18 +13,18 @@
 
 ## About Me
 
-I am a Computer Science graduate currently exploring how data science, machine learning, and AI can be applied to healthcare problems. Over the past few years, I've developed an interest in the role data can play in understanding health challenges and supporting better decisions. That interest has led me to spend time learning data analysis, machine learning, data visualisation, and healthcare analytics through projects, internships, research, and independent study. What keeps me interested in this field is not just the technology itself, but the possibility of using it to solve practical problems that affect people's lives. At the moment, I'm focused on strengthening my technical and research skills, building healthcare-related projects, and preparing for graduate studies in Data Science and Artificial Intelligence. I'm always interested in learning from others, collaborating on meaningful work, and contributing to projects that combine technology, research, and social impact.
+I am a Computer Science graduate currently exploring how data science, machine learning, and AI can be applied to healthcare problems. Over the past few years, I've developed an interest in how data can help us understand health challenges and support better decisions. That interest has led me to spend time learning data analysis, machine learning, data visualisation, and healthcare analytics through projects, internships, research, and independent study. What keeps me interested in this field is not just the technology itself, but the possibility of using it to solve practical problems that affect people's lives. At the moment, I'm focused on strengthening my technical and research skills, building healthcare-related projects, and preparing for graduate studies in Data Science and Artificial Intelligence. I'm always interested in learning from others, collaborating on meaningful work, and contributing to projects that combine technology, research, and social impact.
 
 ---
 
 ## What I Work On
 
-- **Healthcare Analytics** - Applying data analysis and ML to health outcomes, disease risk, and preventive care
-- **Machine Learning** - Supervised classification, predictive modelling, handling class imbalance, model evaluation
-- **Public Health Data** - Understanding patterns in population-level health data and what they mean in practice
-- **Health Informatics** - Integrating biometric and clinical data to support early detection and decision-making
-- **Data Visualisation** - Translating complex datasets into accessible dashboards for non-technical stakeholders
-- **Research** - Evidence-based approaches to health data problems, with a focus on African healthcare contexts
+- Healthcare Analytics, using data to understand health outcomes, disease patterns, and preventive care.
+- Machine Learning, building interpretable predictive systems for healthcare applications.
+- Public Health Data, exploring how population-level data can support healthcare decisions.
+- Health Informatics, integrating health and biometric information for early detection systems.
+- Data Visualisation, translating complex information into accessible insights.
+- Health Systems Research, understanding how data and technology can improve healthcare delivery in resource-constrained environments.
 
 ---
 
