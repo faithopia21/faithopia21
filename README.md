@@ -4,7 +4,8 @@
 
 # Faith Olaniyi
 
-### Computer Science Graduate | Healthcare Analytics & AI Research | Exploring Data-Driven Solutions for Health Systems
+### Computer Science Graduate | Healthcare Analytics & AI Research | Exploring Data and Technology for Better Health Outcomes
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faith%20Olaniyi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faitholuwanifemi-olaniyi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-faitholaniyi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://faitholaniyi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-olaniyifaitholuwanifemi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olaniyifaitholuwanifemi@gmail.com)
